@@ -1,0 +1,41 @@
+.container {
+  margin: 100px auto;
+  width: 500px;
+  background-color: #ccc;
+}
+
+.buttons {
+  width: 500px;
+  padding: 30px 0;
+  margin: 100px auto;
+  display: flex;
+  background-color: #ccc;
+  justify-content: space-around;
+}
+
+button {
+  background-color: white;
+  padding: 15px;
+  border: solid 1px #aaa;
+  outline: none;
+}
+
+button:hover {
+  background-color: #666;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 25px;
+}
+
+a {
+  font-size: 20px;
+}
